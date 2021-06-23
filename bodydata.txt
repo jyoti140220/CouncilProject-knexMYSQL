@@ -1,0 +1,47 @@
+[
+    {
+        "council":"GENSEC",
+        "fullname":"General Secretary",
+        "work":"Mentoring Of All Council's."   
+    },
+    {
+        "council":"DISCO",
+        "fullname":"Decipiline Maintaince Coordinator",
+        "work":"TO Maintain The Decipiline"
+    },
+    {
+        "council":"T&P",
+        "fullname":"Training and Placement Coordinator",
+        "work":"To Maintain The Academic"
+    },
+    { 
+        "council":"IT",
+        "fullname":"Information and Technology Coordinator",
+        "work":"To Maintain The Electric Thing's"
+
+    },
+    {
+        "council":"FC",
+        "fullname":"Food and Kitchen Coordinator",
+        "work":"To Maintain The Kichen & Food."
+
+    },
+    {
+        "council":"FM",
+        "fullname":"Facility Maintenance Coordinator",
+        "work":"Taking care of any repairs and maintenance works on campus."  
+
+    },
+    {
+        "council":"OUTREACH",
+        "fullname":"Outreach and Communications Coordinator",
+        "work":"Increasing The Network,Organise The Activity & Festival"
+
+    },
+    {
+        "council":"HC",
+        "fullname":"Health Coordinatore",
+        "work":"Take Care Of The Health"
+    }
+]
+
