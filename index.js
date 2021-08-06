@@ -1,7 +1,8 @@
 const express=require('express');
 const app=express()
-var user=require('./route.js')
-app.use('/council',user)
+app.use(express.json())
+app.use('/council',require('./routers/index.js'))
+
 app.listen(3000,()=>{
-    console.log("server running.......")
+    console.log("server is running.........")
 })
